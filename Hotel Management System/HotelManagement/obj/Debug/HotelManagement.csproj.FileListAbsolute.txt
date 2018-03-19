@@ -1,0 +1,29 @@
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe.config
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\bin\Debug\HotelManagement.exe
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\bin\Debug\HotelManagement.pdb
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\bin\Debug\Business Logic Layer.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\bin\Debug\DataTranferObject.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\bin\Debug\Business Logic Layer.pdb
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\bin\Debug\DataTranferObject.pdb
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojResolveAssemblyReference.cache
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Login.resources
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Properties.Resources.resources
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csproj.GenerateResource.Cache
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.exe
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.HomePage.resources
+C:\Users\Trong Dat Ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RentManagement.resources
+C:\Users\Trong Dat Ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ReservationManager.resources
+C:\Users\Trong Dat Ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RoomManager.resources
+C:\Users\Trong Dat Ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.EmployeeManager.resources
+C:\Users\Trong Dat Ngo\documents\visual studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.CustomerManager.resources
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.ServicesManager.resources
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.FacilitiesManager.resources
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.PromotionManager.resources
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Warehouse.resources
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.Compensatory.resources
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RequestService.resources
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\HotelManagement\bin\Debug\DataAccessLayer.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\HotelManagement\bin\Debug\DataAccessLayer.pdb
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.RoomStatus.resources
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement..resources

@@ -1,0 +1,18 @@
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\BusinessLogicLayerTests.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\BusinessLogicLayerTests.pdb
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\Business Logic Layer.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\DataTranferObject.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\DataAccessLayer.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\Business Logic Layer.pdb
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\DataTranferObject.pdb
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\bin\Debug\DataAccessLayer.pdb
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\obj\Debug\BusinessLogicLayerTests.csprojResolveAssemblyReference.cache
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\obj\Debug\BusinessLogicLayerTests.dll
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\BusinessLogicLayerTests\obj\Debug\BusinessLogicLayerTests.pdb

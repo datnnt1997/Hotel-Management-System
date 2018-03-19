@@ -1,0 +1,7 @@
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataAccessLayer\bin\Debug\DataTranferObject.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataAccessLayer\bin\Debug\DataTranferObject.pdb
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

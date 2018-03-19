@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{86F9ADB7-5835-4CB6-AA73-48E127EFD97E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HotelManagement</RootNamespace>
+    <AssemblyName>HotelManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include=".Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Compensatory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compensatory.Designer.cs">
+      <DependentUpon>Compensatory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerManager.Designer.cs">
+      <DependentUpon>CustomerManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeManager.designer.cs">
+      <DependentUpon>EmployeeManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FacilitiesManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacilitiesManager.Designer.cs">
+      <DependentUpon>FacilitiesManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="PromotionManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PromotionManager.Designer.cs">
+      <DependentUpon>PromotionManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RentManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RentManagement.Designer.cs">
+      <DependentUpon>RentManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RequestService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RequestService.Designer.cs">
+      <DependentUpon>RequestService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReservationManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReservationManager.Designer.cs">
+      <DependentUpon>ReservationManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RoomManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RoomManager.Designer.cs">
+      <DependentUpon>RoomManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RoomStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RoomStatus.Designer.cs">
+      <DependentUpon>RoomStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ServicesManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServicesManager.Designer.cs">
+      <DependentUpon>ServicesManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Warehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Warehouse.Designer.cs">
+      <DependentUpon>Warehouse.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Compensatory.resx">
+      <DependentUpon>Compensatory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerManager.resx">
+      <DependentUpon>CustomerManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include=".resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeManager.resx">
+      <DependentUpon>EmployeeManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacilitiesManager.resx">
+      <DependentUpon>FacilitiesManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PromotionManager.resx">
+      <DependentUpon>PromotionManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RentManagement.resx">
+      <DependentUpon>RentManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RequestService.resx">
+      <DependentUpon>RequestService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReservationManager.resx">
+      <DependentUpon>ReservationManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RoomManager.resx">
+      <DependentUpon>RoomManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RoomStatus.resx">
+      <DependentUpon>RoomStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServicesManager.resx">
+      <DependentUpon>ServicesManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Warehouse.resx">
+      <DependentUpon>Warehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business Logic Layer\BusinessLogicLayer.csproj">
+      <Project>{78e5a5c0-9657-41ee-b3ab-80469acf9fbd}</Project>
+      <Name>BusinessLogicLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataTranferObject\DataTranferObject.csproj">
+      <Project>{c8acd60b-370d-4788-b237-2f667732c457}</Project>
+      <Name>DataTranferObject</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close Window_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout Rounded Left_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rent_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Service Bell_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Customer_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reservation_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Room_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Staff_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Living Room_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sale_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warehouse_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Request Service_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bill_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Food Service_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Male User_40px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password 1_40px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rent_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Create_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Magazine_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Right_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Room_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add User Male_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile-placeholder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ms-icon-2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Restaurant Menu_100px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Interior_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Discount_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VIP_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VIP_104px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sale_104px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Product_104px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Request Money_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Luxury-Bellagio-Hotel-and-Casino-Las-Vegas-Nevada-North-America-Beautiful-HD-Desktop-Wallpaper-2880x1800-1366x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\las_vegas_bellagio_bellagio_hotel_fountain_panorama_82491_1366x768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Single Bed_70px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pie Chart Report_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Request Money_64px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

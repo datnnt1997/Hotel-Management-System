@@ -1,0 +1,5 @@
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataTranferObject\bin\Debug\DataTranferObject.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataTranferObject\bin\Debug\DataTranferObject.pdb
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataTranferObject\obj\Debug\DataTranferObject.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\DataTranferObject\obj\Debug\DataTranferObject.pdb
+C:\Users\Trong Dat Ngo\Documents\Visual Studio 2017\Projects\HotelManagement\DataTranferObject\obj\Debug\DataTranferObject.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\Business Logic Layer\bin\Debug\Business Logic Layer.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\Business Logic Layer\bin\Debug\Business Logic Layer.pdb
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\Business Logic Layer\bin\Debug\DataAccessLayer.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\Business Logic Layer\bin\Debug\DataTranferObject.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\Business Logic Layer\bin\Debug\DataAccessLayer.pdb
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\Business Logic Layer\bin\Debug\DataTranferObject.pdb
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\Business Logic Layer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\Business Logic Layer\obj\Debug\Business Logic Layer.dll
+c:\users\trong dat ngo\documents\visual studio 2017\Projects\HotelManagement\Business Logic Layer\obj\Debug\Business Logic Layer.pdb
